@@ -1,0 +1,10 @@
+@model List<string>
+<h1>Search result page</h1>
+
+<div class="text-center">
+    @{
+        foreach(var srcImage in Model){
+            <img id="image1" src="../images/@srcImage" alt="no photo" width="200" height="350" >
+        }
+    }
+</div>

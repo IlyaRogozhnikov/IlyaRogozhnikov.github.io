@@ -1,0 +1,6 @@
+cats1.jfif,cats,animals
+cats2.jfif,cats,animals
+cats3.jfif,cats,animals
+dog1.jpg,dogs,animals
+dog2.jpg,dogs,animals
+dog3.jpg,dogs,animals
